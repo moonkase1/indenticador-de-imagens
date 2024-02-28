@@ -1,0 +1,1 @@
+# indenticador-de-imagens
